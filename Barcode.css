@@ -1,0 +1,16 @@
+#container{
+	background-color: grey;
+	height: 400px;
+	width: 400px;
+	border-radius: 8px;
+	position: relative;
+	top: 100px;
+	left: 40%;
+}
+
+#body{
+	background-size: contain;
+	width: 300px;
+	padding-left: 80px;
+	padding-top: 50px;
+}
